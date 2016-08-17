@@ -1,2 +1,3 @@
+Creating a new branch is quick.
 git try-- 
 new haha
